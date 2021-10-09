@@ -1,6 +1,6 @@
 ### Hi there, I'm Taha - aka [Abled-Taha][website] 👋
 
-[![Website](https://img.shields.io/website?label=Abled-Taha.com&style=for-the-badge&url=https://abled-taha.herokuapp.com)](https://abled-taha.herokuapp.com)
+[![Website](https://img.shields.io/website?label=Abled-Taha.herokuapp.com&style=for-the-badge&url=https://abled-taha.herokuapp.com)](https://abled-taha.herokuapp.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/AbledTaha?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAbled-Taha&screen_name=Abled-Taha)
 
 ## I'm a Developer, and Student!!
