@@ -24,7 +24,7 @@
 
 ---
 
-[website]: https://abled-taha.herokuapp.com
+[website]: https://abled-taha.github.io
 [twitter]: https://twitter.com/@AbledTaha
 [youtube]: https://www.youtube.com/channel/UCSvyTai0BVGgaM7hjsfNT5Q
 [instagram]: https://www.instagram.com/abled_taha
